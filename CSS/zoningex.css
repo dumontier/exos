@@ -1,0 +1,57 @@
+body{
+    background-color: #3f52e3;
+}
+#contenu{
+    width: 60%;
+    margin: 0 auto;
+    border: 6px solid white;
+    background: aquamarine;
+    color: white;
+
+}
+header{
+    background-color: #8e3557;
+    /* EMMET background-color => bgc + tab */
+    height: 150px;
+    text-align: center;
+    padding-left: 20px; 
+    padding-top: 6px;
+}
+nav{
+    background-color: #436e4f;
+    height: 50px;
+    text-align: center;
+    padding-left: 20px; 
+    padding-top: 6px; 
+}
+main{
+    height: 500px;
+    margin: 10px;
+    text-align: center;
+}
+.a, .b, .c, .d{
+    width: 24.7%;
+    height: 122px;
+    border: 1px solid white;
+    float: left; 
+    line-height: 8em;
+    color: black;
+}
+.a{
+    background: url(../img/noixcoco.jpg) no-repeat;  
+}
+.b{
+   background: url(../img/apple.jpg) no-repeat;
+}
+.c{
+    background: url(../img/ananas.jpg) no-repeat;
+}
+.d{
+    background: url(../img/fraises.jpg) no-repeat;
+}
+footer{
+    background-color: #8ea6b4; 
+    height: 100px;
+    text-align: center;
+    line-height: 5em;
+}

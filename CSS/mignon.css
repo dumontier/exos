@@ -1,0 +1,22 @@
+body{
+    width: 50%;
+    margin: 0 auto;
+}
+table{
+    width: 50em;
+    height: 60em;
+    border-collapse: collapse; 
+}
+
+.jaune{
+   background: yellow;
+}
+.gris{
+    background: gray;
+}
+.noir{
+    background: black;
+}
+.bleu{
+    background: blue;
+}

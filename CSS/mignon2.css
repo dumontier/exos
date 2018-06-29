@@ -1,0 +1,32 @@
+body{
+    width: 50%;
+}
+table{
+    width: 50em;
+    height: 50em;
+    border-collapse: collapse; 
+}
+.noir{
+    background: black;
+}
+.marron{
+    background: #42291c;
+}
+.brun{
+    background: #7e6752;
+}
+.rose{
+    background: #f8b195;
+}
+.roseh{
+    background: #ffa06f;
+}
+.vert{
+    background: #4a772f;
+}
+.vertf{
+    background: #436e4f;
+}
+.vertc{
+    background: #c9ffc7;
+}
