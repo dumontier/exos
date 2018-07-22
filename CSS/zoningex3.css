@@ -1,0 +1,11 @@
+#contenu{
+    width: 80%;
+    border: 2px solid black;
+}
+header, footer{
+    border: 1px solid rosybrown;
+    background-color: rosybrown;
+}
+main{
+    height: 500px;
+}

@@ -1,0 +1,45 @@
+.entete {
+    width: 100%;
+    position: fixed;
+  background-color: yellowgreen;
+}
+.gauche {
+  margin: 0px;
+  float: left;
+  position: static;
+  background-color: rgb(163, 85, 85);
+  width: 15%;
+  text-align: center;
+}
+.droite {
+  background-color: yellow;
+  margin: 0;
+  padding: 0;
+    /* float: right; */
+    right: 0;
+  width: 30%;
+  position: absolute;
+}
+.centre {
+  background-color: rgb(51, 88, 255);
+  margin: 0px 30% 0px 15%;
+  padding: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+  position: relative;
+  top: 95px;
+  left: 2px;
+}
+.contenu {
+  margin: 5px;
+  padding: 10px;
+  border: 1px solid red;
+  width: auto;
+}
+.pieddepage {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  background-color: yellowgreen;
+  clear: both;
+  width: 100%;
+  bottom: 0;
+  position: fixed;
+}

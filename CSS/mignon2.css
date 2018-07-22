@@ -13,7 +13,7 @@ table{
     background: #42291c;
 }
 .brun{
-    background: #7e6752;
+    background: hsl(29, 32%, 22%);
 }
 .rose{
     background: #f8b195;
@@ -25,8 +25,29 @@ table{
     background: #4a772f;
 }
 .vertf{
-    background: #436e4f;
+    background: #2E5A1C;
 }
 .vertc{
-    background: #c9ffc7;
+    background: #7DA87B;
+}
+.vertff{
+    background: #012c0b;
+}
+.creme{
+    background: #fbfae1;
+}
+.jaune{
+    background: yellow;
+}
+.bois{
+    background: #a55540;
+}
+.boisf{
+    background: #681a1e;
+}
+.kaki{
+    background: #466541;
+}
+.kakif{
+    background: #535a3b;
 }

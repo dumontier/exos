@@ -1,34 +1,43 @@
-body{
-    background-color: blue;
-}
 #contenu{
     width: 60%;
     margin: 0 auto;
     background-color: aliceblue;
 }
 header{
-    background-color: brown;
+    height: 100px;
+    background-color: red;
     text-align: center;
     padding-left: 20px;
     padding-top: 6px;
 }
-main{
-    height: 500px;
-    margin: 10px;
+section{
+    height: 692px;
+    margin: 0 auto;
+}
+.gauche, .droite, .z_milieu{
+    float: left;
     text-align: center;
 }
-
-#a{
-    height: 450px;
-    width: 16%;
-    background-color: #3f52e3;
+.gauche, .droite{
+    width: 19%;
+    height: 280px;
+    border: 1px solid blue;
+    background-color: blue;
+    padding-top: 30%;
 }
-.b{
-    height: 600px;
-    width: 20px;
-    background-color: #1dcd9f;
+.z_milieu{
+    width: 12%;
+    height: 160px;
+    border: 1px solid white;
+    background-color: greenyellow;
+    padding-top: 30%;
 }
-footer{
-    background-color: #feff9a;
+.bas{
     width: 60%;
+    margin: 0 auto;
+    border: 1px solid yellow;
+    background-color: yellow;
+    text-align: center;
 }
+.clear{
+    clear: both;  /* annule l'effet flottant du 'float: left' et du 'float: right' */
